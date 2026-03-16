@@ -1,5 +1,8 @@
-# ChemSafe Laboratory & Safety Consultants
+<p align="center">
+<img src="logo-chemsafe.png" width="300">
+</p>
 
+# ChemSafe Laboratory & Safety Consultants 
 **Protecting Science. Protecting People.**
 
 ChemSafe Laboratory & Safety Consultants provides professional consulting services in **laboratory safety, chemical risk management, and quality assurance systems**. We help laboratories, research institutions, NGOs, and manufacturing organizations create safe, compliant, and efficient scientific environments.
