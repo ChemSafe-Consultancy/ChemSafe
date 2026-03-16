@@ -25,7 +25,12 @@ Our consultancy focuses on **practical, implementable solutions** that protect b
 - Laboratory safety audits  
 - Chemical storage and labeling systems  
 - Laboratory risk assessments  
-- Safety procedures for laboratory operations  
+- Safety procedures for laboratory operations
+  
+Enivironmental safety
+- water safety analysis
+- soil pollution analysis
+- chemical spill management 
 
 ### Chemical Safety
 - Chemical hazard identification  
